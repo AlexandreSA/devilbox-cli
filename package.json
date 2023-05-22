@@ -1,13 +1,14 @@
 {
-    "name": "devilbox-cli",
-    "version": "0.4.1",
+    "name": "alex-devilbox-cli",
+    "version": "0.1.0",
     "description": "A simple and conveniant command line to manage devilbox from anywhere",
     "author": "Louis Gabriel <code@louisgab.me>",
+    "contributors": ["Alexandre S. Anjos <alexanjos87@hotmail.com>"],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/louisgab/devilbox-cli/issues"
+        "url": "https://github.com/AlexandreSA/devilbox-cli/issues"
     },
-    "homepage": "https://github.com/louisgab/devilbox-cli",
+    "homepage": "https://github.com/AlexandreSA/devilbox-cli",
     "bin": {
         "devilbox": "./dist/devilbox-cli.sh"
     },
@@ -19,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/louisgab/devilbox-cli.git"
+        "url": "git+https://github.com/AlexandreSA/devilbox-cli.git"
     },
     "keywords": [
         "devilbox",

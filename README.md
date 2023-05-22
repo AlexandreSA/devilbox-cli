@@ -29,7 +29,7 @@ Then reload your terminal or run `source ~/.zshrc` if you use zsh.
 As simple as :
 
 ```
-npm install -g devilbox-cli
+npm install -g alex-devilbox-cli
 ```
 
 If installed successfully, you should see something like this when you run `devilbox -v`:
@@ -48,7 +48,7 @@ chmod +x devilbox-cli.sh
 sudo mv devilbox-cli.sh /usr/local/bin/devilbox
 ```
 This way you can call the script from anywhere, but you won't be able to download updates (that was the point of using npm).
-For a manual update, delete it first 
+For a manual update, delete it first
 ```sh
 sudo rm /usr/local/bin/devilbox
 ```

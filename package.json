@@ -1,6 +1,6 @@
 {
     "name": "alex-devilbox-cli",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A simple and conveniant command line to manage devilbox from anywhere",
     "author": "Louis Gabriel <code@louisgab.me>",
     "contributors": ["Alexandre S. Anjos <alexanjos87@hotmail.com>"],
